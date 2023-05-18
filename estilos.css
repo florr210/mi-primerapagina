@@ -104,6 +104,9 @@ p{
  flex: 1;
  padding: 10px;
 }
+.greeting{
+  text-align: center;
+}
         @media (max-width: 600px) {
             .column {
             flex: 100%;
